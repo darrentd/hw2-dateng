@@ -26,7 +26,7 @@ public class Answer extends Annotation {
   public final static int type = typeIndexID;
   /** @generated  */
   @Override
-  public              int getTypeIndexID() {return typeIndexID;}
+  public int getTypeIndexID() {return typeIndexID;}
  
   /** Never called.  Disable default constructor
    * @generated */
