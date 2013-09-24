@@ -76,8 +76,7 @@
 		</dependency>
 	</dependencies>
 	<scm>
-		<connection>https://github.com/darrentd/hw2-dateng.git</connection>
-		<developerConnection>https://github.com/darrentd/hw2-dateng.git</developerConnection>
-		<url>https://github.com/darrentd/hw2-dateng.git</url>
+		<connection>scm:git:https://github.com/darrentd/hw2-dateng.git</connection>
+		<developerConnection>scm:git:https://github.com/darrentd/hw2-dateng.git</developerConnection>
 	</scm>
 </project>
