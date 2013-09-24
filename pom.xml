@@ -78,5 +78,6 @@
 	<scm>
 		<connection>https://github.com/darrentd/hw2-dateng.git</connection>
 		<developerConnection>https://github.com/darrentd/hw2-dateng.git</developerConnection>
+		<url>https://github.com/darrentd/hw2-dateng.git</url>
 	</scm>
 </project>
